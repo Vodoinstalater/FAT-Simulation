@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733881052 source:f:\professional\c\seminarski os\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1733884240 source:c:\users\penguin\desktop\backup\seminarski os v1.1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
